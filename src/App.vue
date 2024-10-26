@@ -4,7 +4,7 @@
       <div class="main">
         <div class="logo">
           <img src="./assets/favicon.ico">
-          <span>Han Analytics</span>
+          <span>Qning Analytics</span>
         </div>
         <h2>简单优雅的Web分析</h2>
       </div>
