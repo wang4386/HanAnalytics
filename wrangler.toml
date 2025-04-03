@@ -9,6 +9,6 @@ dataset = "AnalyticsDataset"
 CLOUDFLARE_ACCOUNT_ID = '3ef54491c85219a74c0c37abc9ac72d1'
 CLOUDFLARE_API_TOKEN = 'QAWK_LbdTnxAuCOaj5zgSgWaISEVJlYi6y6Ii3Yn'
 # 网站访问密码 (不设置即无需密码访问)
-CLOUDFLARE_WEBSITE_PWD = '233817'
+CLOUDFLARE_WEBSITE_PWD = ''
 # 可统计的白名单 格式：  域名,WebSite|域名,WebSite，多个站点使用|分隔 例如：'api.vvhan.com,Hello-Han-Api|www.vvhan.com,Hello-HanHexoBlog'  (不设置即允许任何统计)
-CLOUDFLARE_WEBSITE_WHITELIST = 'mjj.qninq.cn,vpsrest|tool.qninq.cn,ToolBox|qninq.cn,Blog'
+CLOUDFLARE_WEBSITE_WHITELIST = 'qninq.cn,Blog'
